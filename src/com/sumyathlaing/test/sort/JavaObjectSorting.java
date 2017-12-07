@@ -1,4 +1,4 @@
-package com.sumyathlaing.test;
+package com.sumyathlaing.test.sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
